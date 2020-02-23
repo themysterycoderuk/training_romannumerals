@@ -1,0 +1,11 @@
+/Users/chris/Documents/Code/Playing/RomanNumerals/obj/Debug/netcoreapp2.1/RomanNumerals.csprojAssemblyReference.cache
+/Users/chris/Documents/Code/Playing/RomanNumerals/obj/Debug/netcoreapp2.1/RomanNumerals.csproj.CoreCompileInputs.cache
+/Users/chris/Documents/Code/Playing/RomanNumerals/obj/Debug/netcoreapp2.1/RomanNumerals.AssemblyInfoInputs.cache
+/Users/chris/Documents/Code/Playing/RomanNumerals/obj/Debug/netcoreapp2.1/RomanNumerals.AssemblyInfo.cs
+/Users/chris/Documents/Code/Playing/RomanNumerals/bin/Debug/netcoreapp2.1/RomanNumerals.deps.json
+/Users/chris/Documents/Code/Playing/RomanNumerals/bin/Debug/netcoreapp2.1/RomanNumerals.runtimeconfig.json
+/Users/chris/Documents/Code/Playing/RomanNumerals/bin/Debug/netcoreapp2.1/RomanNumerals.runtimeconfig.dev.json
+/Users/chris/Documents/Code/Playing/RomanNumerals/bin/Debug/netcoreapp2.1/RomanNumerals.dll
+/Users/chris/Documents/Code/Playing/RomanNumerals/bin/Debug/netcoreapp2.1/RomanNumerals.pdb
+/Users/chris/Documents/Code/Playing/RomanNumerals/obj/Debug/netcoreapp2.1/RomanNumerals.dll
+/Users/chris/Documents/Code/Playing/RomanNumerals/obj/Debug/netcoreapp2.1/RomanNumerals.pdb
